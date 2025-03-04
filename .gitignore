@@ -1,0 +1,4 @@
+*.o
+*.def.h
+tabbed
+xembed

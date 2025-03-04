@@ -1,4 +1,4 @@
-tabbed - generic tabbed interface
+# tabbed - generic tabbed interface
 =================================
 tabbed is a simple tabbed X window container.
 
