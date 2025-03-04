@@ -1,22 +1,35 @@
-# tabbed - generic tabbed interface
-=================================
-tabbed is a simple tabbed X window container.
+# tabbed - añade pestañas a tus programas
 
-Requirements
-------------
-In order to build tabbed you need the Xlib header files.
+Esta es mi versión personal de [suckless
+tabbed](https://tools.suckless.org/tabbed/), la cual utilizo
+exclusivamente con [st](https://st.suckless.org/). 
 
-Installation
-------------
-Edit config.mk to match your local setup (tabbed is installed into
-the /usr/local namespace by default).
+Está configurada principalmente para tener los keybindings
+de un navegador web, y además incluye las siguientes
+funciones añadidas principalmente a través de parches: 
 
-Afterwards enter the following command to build and install tabbed
-(if necessary as root):
+- Configuración estética a través de Xresources
+- Numeración para cada pestaña
+- Soporte de transparencia del cliente hecho pestaña
+  (requiere de un compositor)
+- Soporte para el ícono del cliente
 
-    make clean install
+Una lista de las funcionalidades más importantes y sus
+correspondientes combinaciones de teclas puede ser
+consultada debajo. Aunque me parece que son predeterminados
+bastante sensibles, todas pueden ser modificadas editando
+`config.h`.
 
-Running tabbed
---------------
-See the man page for details.
+## Keybindings
+| Teclas | Descripción |
+|--|--|
+|`Ctrl + T`  |Nueva pestaña|
+|`Ctrl + Shift + T`  |Nueva pestaña en el directorio de la actual pestaña|
+|`Ctrl + W`  |Cerrar pestaña|
+|`Ctrl + Tab`|Siguiente pestaña|
+|`Ctrl + Shift + Tab`|Anterior pestaña|
+|`Ctrl + Shift + Tab`|Anterior pestaña|
+|`Ctrl + [1..9]`|Ver la pestaña [1..9]|
+|`Ctrl + Shift + H`|Mover la actual pestaña hacia la izquierda|
+|`Ctrl + Shift + L`|Mover la actual pestaña hacia la derecha|
 
