@@ -33,7 +33,6 @@ bastante sensibles, todas pueden ser modificadas editando
 |`Ctrl + W`  |Cerrar pestaña|
 |`Ctrl + Tab`|Siguiente pestaña|
 |`Ctrl + Shift + Tab`|Anterior pestaña|
-|`Ctrl + Shift + Tab`|Anterior pestaña|
 |`Ctrl + [1..9]`|Ver la pestaña [1..9]|
 |`Ctrl + Shift + H`|Mover la actual pestaña hacia la izquierda|
 |`Ctrl + Shift + L`|Mover la actual pestaña hacia la derecha|
