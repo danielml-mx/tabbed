@@ -2,7 +2,10 @@
 
 Esta es mi versión personal de [suckless
 tabbed](https://tools.suckless.org/tabbed/), la cual utilizo
-exclusivamente con [st](https://st.suckless.org/). 
+exclusivamente con [st](https://st.suckless.org/). La
+considero una herramienta esencial para mi workflow pues me
+permite hacer varias tareas en diferentes sesiones de la
+terminal optimizando el uso del espacio en la pantalla.
 
 Está configurada principalmente para tener los keybindings
 de un navegador web, y además incluye las siguientes
