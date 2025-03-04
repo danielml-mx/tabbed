@@ -2,16 +2,16 @@
 
 Esta es mi versión personal de [suckless
 tabbed](https://tools.suckless.org/tabbed/), la cual utilizo
-exclusivamente con [st](https://st.suckless.org/). La
-considero una herramienta esencial para mi workflow pues me
-permite hacer varias tareas en diferentes sesiones de la
-terminal optimizando el uso del espacio en la pantalla.
+exclusivamente con [st](https://st.suckless.org/). Me ha
+servido para mi workflow pues me permite hacer varias tareas
+en diferentes sesiones de la terminal optimizando el uso del
+espacio en pantalla.
 
 ![screenshot-030325-231147](https://github.com/user-attachments/assets/09046b72-8d1a-4c28-aa10-b6bda6665f40)
 
-Está configurada principalmente para tener los keybindings
-de un navegador web, y además incluye las siguientes
-funciones añadidas principalmente a través de parches: 
+Esta versión está configurada para tener los keybindings de
+un navegador web, y además incluye las siguientes funciones
+añadidas principalmente a través de parches: 
 
 - Configuración estética a través de Xresources
 - Numeración para cada pestaña
@@ -21,9 +21,9 @@ funciones añadidas principalmente a través de parches:
 
 Una lista de las funcionalidades más importantes y sus
 correspondientes combinaciones de teclas puede ser
-consultada debajo. Aunque me parece que son predeterminados
-bastante sensibles, todas pueden ser modificadas editando
-`config.h`.
+consultada debajo. Aunque me parece que tienen
+predeterminados bastante sensibles, todas pueden ser
+modificadas editando `config.h`.
 
 ## Keybindings
 | Teclas | Descripción |
