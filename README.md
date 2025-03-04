@@ -7,6 +7,8 @@ considero una herramienta esencial para mi workflow pues me
 permite hacer varias tareas en diferentes sesiones de la
 terminal optimizando el uso del espacio en la pantalla.
 
+![screenshot-030325-231147](https://github.com/user-attachments/assets/09046b72-8d1a-4c28-aa10-b6bda6665f40)
+
 Está configurada principalmente para tener los keybindings
 de un navegador web, y además incluye las siguientes
 funciones añadidas principalmente a través de parches: 
